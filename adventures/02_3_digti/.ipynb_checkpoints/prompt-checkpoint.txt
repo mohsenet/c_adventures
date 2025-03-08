@@ -1,0 +1,6 @@
+I want to write following exersive with cpp promram in linux.
+
+Exercise 1: 
+Write a program that receives a three-digit natural number, then calculates and displays the sum of the digits of the entered number.
+For example, if the input number is 572, the output number is (5+7+2=14) will be 14.
+Note: The program has an input and an output.
